@@ -13,6 +13,6 @@ collaborative filtering, Factorization Machines, Non-Negative Matrix factorisati
 * ### [ai_ml_dl.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/ai_ml_dl.pdf) ###
 this is what I used to talk to industry about what is AI, ML and DL
 
-### [dimension_reduction.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
+* ### [dimension_reduction.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
 
