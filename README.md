@@ -28,8 +28,8 @@ basic neural networks and multilayer perceptron
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
 basic CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
 
-* ### [Deep Learning topics (rest)](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_learning.pdf) ###
-RNN, GAN and RBM
+* ### [Other Deep Learning topics](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_learning.pdf) ###
+Other Deep learning models including RNN, GAN and RBM
 
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
