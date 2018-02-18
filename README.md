@@ -1,4 +1,4 @@
-# Videos to these notes.
+# Video Tutorial to these notes.
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng)
 
