@@ -17,13 +17,22 @@ this is what I used to talk to industry about AI, ML and DL
 classic PCA and t-SNE
 
 
+# Deep Learning (stay tuned for jupyter style notes in 2018)
 
-# Deep Learning
+* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
+Optimisation methods in general. not limited to just Deep Learning
 
 * ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
 basic neural networks and multilayer perceptron 
 
+* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
+basic CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
 
+* ### [Deep Learning topics (rest)](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_learning.pdf) ###
+RNN, GAN and RBM
+
+* ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
+basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
 
 
 # Probability and Statistics Background
