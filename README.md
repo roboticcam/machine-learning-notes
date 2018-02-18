@@ -16,7 +16,7 @@ this is what I used to talk to industry about AI, ML and DL
 * ### [dimension_reduction.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
 
-# Gentle Probability and Statistics Models
+# Probability and Statistics Background
 
 * ### [bayesian.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
 revision on Bayes model include Bayesian predictive model, conditional expectation
@@ -26,5 +26,15 @@ some useful distributions, conjugacy, MLE, MAP, Exponential family and natural p
 
 * ### [statistics.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/statistics.pdf) ###
 useful statistical properties to help us prove things, include Chebyshev and Markov inequality
+
+
+# Probabilistic Model
+
+* ### [em.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model
+
+* ### [dynamic_model.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
+explain in detail of Kalman Filter and Hidden Markov Model
+
 
 
