@@ -1,6 +1,6 @@
 # Videos to these notes.
 
-I recorded about 20% of these notes in videos in 2015 in Mandarin (however, all my notes in are English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng)
+I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng)
 
 
 # Data Science
@@ -31,7 +31,7 @@ Optimisation methods in general. not limited to just Deep Learning
 basic neural networks and multilayer perceptron 
 
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
-basic CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
+detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
 
 * ### [Other Deep Learning topics](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_learning.pdf) ###
 Other Deep learning models including RNN, GAN and RBM
