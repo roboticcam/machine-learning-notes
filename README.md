@@ -16,6 +16,7 @@ this is what I used to talk to industry about AI, ML and DL
 * ### [dimension_reduction.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
 
+
 # Probability and Statistics Background
 
 * ### [bayesian.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
@@ -35,6 +36,27 @@ Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model
 
 * ### [dynamic_model.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
 explain in detail of Kalman Filter and Hidden Markov Model
+
+
+# Inference
+
+* ### [variational.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference.
+
+
+* ### [stochastic_matrices.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
+stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRank algorithm
+
+
+* ### [introduction_monte_carlo.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
+inverse CDF, rejection, adaptive rejection, importance sampling
+
+
+* ### [markov_chain_monte_carlo.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
+M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA
+
+* ### [particle_filter.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
+Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter
 
 
 
