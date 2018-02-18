@@ -1,6 +1,6 @@
 # Data Science
 
-* ### [data_analytics.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/data_analytics.pdf) ###
+* ### [Introduction to Data Analytics [data_analytics.pdf] ](https://github.com/roboticcam/machine-learning-notes/blob/master/data_analytics.pdf) ###
 Three perspectives into machine learning and Data Science. Supervised vs Unsupervised Learning, Classification accuracy
 
 
