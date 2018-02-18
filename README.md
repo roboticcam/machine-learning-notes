@@ -17,6 +17,15 @@ this is what I used to talk to industry about AI, ML and DL
 classic PCA and t-SNE
 
 
+
+# Deep Learning
+
+* ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
+basic neural networks and multilayer perceptron 
+
+
+
+
 # Probability and Statistics Background
 
 * ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
