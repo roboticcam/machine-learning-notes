@@ -22,7 +22,7 @@ this is what I used to talk to industry about AI, ML and DL
 classic PCA and t-SNE
 
 
-# Deep Learning (stay tuned for jupyter style notes in 2018)
+# Deep Learning (jupyter style notes coming in 2018)
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
