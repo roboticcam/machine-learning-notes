@@ -19,7 +19,7 @@ classic PCA and t-SNE
 
 # Deep Learning (stay tuned for jupyter style notes in 2018)
 
-* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
+* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
 
 * ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
@@ -77,4 +77,10 @@ M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstra
 Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter
 
 
+# Advanced Probabilistic Model
 
+* ### [Bayesian Non Parametrics (BNP) and its inference](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
+Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP 
+
+* ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
+explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
