@@ -11,8 +11,20 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
 
 * ### [ai_ml_dl.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/ai_ml_dl.pdf) ###
-this is what I used to talk to industry about what is AI, ML and DL
+this is what I used to talk to industry about AI, ML and DL
 
 * ### [dimension_reduction.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
+
+# Gentle Probability and Statistics Models
+
+* ### [bayesian.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
+revision on Bayes model include Bayesian predictive model, conditional expectation
+
+* ### [probability.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/probability.pdf) ###
+some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters
+
+* ### [statistics.pdf](https://github.com/roboticcam/machine-learning-notes/blob/master/statistics.pdf) ###
+useful statistical properties to help us prove things, include Chebyshev and Markov inequality
+
 
