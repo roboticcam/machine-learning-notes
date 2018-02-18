@@ -1,3 +1,8 @@
+# Videos to these notes.
+
+I recorded about 20% of these notes in videos in 2015 in Mandarin (however, all my notes in are English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng)
+
+
 # Data Science
 
 * ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/data_analytics.pdf) ###
