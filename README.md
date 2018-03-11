@@ -7,7 +7,7 @@
 
 # Data Science
 
-* ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/data_analytics.pdf) ###
+* ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/AI_and_machine_learning.pptx) and its associate Jupyter notebook(https://github.com/roboticcam/machine-learning-notes/blob/master/industry_master_class.ipynb) ###
 Three perspectives into machine learning and Data Science. Supervised vs Unsupervised Learning, Classification accuracy
 
 
