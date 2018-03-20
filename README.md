@@ -8,7 +8,7 @@
 # Data Science
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)
-This is an extremely gentle introduction, i.e., a 30 mintues talk on AI and Machine Learning. Thanks to my PhD student Haodong Chang for helping me putting it together.
+An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
 
 * ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/regression.pdf) ###
 Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model
