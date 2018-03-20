@@ -7,9 +7,11 @@
 
 # Data Science
 
+* ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)###
+This is an extremely gentle introduction, i.e., a 30 mintues talk on AI and Machine Learning. Thanks to my PhD student Haodong Chang for helping me putting it together.
+
 * ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/industry_master_class.ipynb) ###
 Three perspectives into machine learning and Data Science. Supervised vs Unsupervised Learning, Classification accuracy
-
 
 * ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/regression.pdf) ###
 Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model
@@ -17,12 +19,8 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
 
-* ### [Industry General talk](https://github.com/roboticcam/machine-learning-notes/blob/master/ai_ml_dl.pdf) ###
-this is what I used to talk to industry about AI, ML and DL
-
 * ### [Dimension Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
-
 
 # Deep Learning (jupyter style notes coming in 2018)
 
