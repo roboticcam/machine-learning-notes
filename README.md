@@ -55,7 +55,7 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 # Probabilistic Model
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[kmeans_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
 explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and **[[HMM 优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** and **[[Kalman Filter 优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
@@ -85,7 +85,7 @@ Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filt
 # Advanced Probabilistic Model
 
 * ### [Bayesian Non Parametrics (BNP) and its inference](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
-Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
+Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)**
 
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
