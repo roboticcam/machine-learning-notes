@@ -54,17 +54,17 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 
 # Probabilistic Model
 
-* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) [[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)**
+* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
-explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 # Inference
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
@@ -79,13 +79,13 @@ inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rej
 M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
-Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter
+Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 # Advanced Probabilistic Model
 
 * ### [Bayesian Non Parametrics (BNP) and its inference](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
-Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP 
+Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
