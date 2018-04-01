@@ -64,7 +64,7 @@ explain in detail of Kalman Filter and Hidden Markov Model, **[DEMO kalman_demo.
 # Inference
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **demos [vb_normal_gamma.m](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[VIDEO 优酷](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[DEMO vb_normal_gamma.m](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[VIDEO 优酷](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
