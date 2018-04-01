@@ -55,16 +55,16 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 # Probabilistic Model
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **demo: [gmm_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)**
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[DEMO gmm_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
-explain in detail of Kalman Filter and Hidden Markov Model, **demo: [kalman_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+explain in detail of Kalman Filter and Hidden Markov Model, **[DEMO kalman_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
 
 
 # Inference
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **demos [vb_normal_gamma.m](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **video [优酷](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **demos [vb_normal_gamma.m](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[VIDEO 优酷](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
