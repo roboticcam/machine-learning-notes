@@ -55,16 +55,16 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 # Probabilistic Model
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[gmm_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
-explain in detail of Kalman Filter and Hidden Markov Model, **[kalman_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
 
 
 # Inference
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[vb_normal_gamma.m](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[优酷](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
@@ -72,11 +72,11 @@ stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRa
 
 
 * ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
-inverse CDF, rejection, adaptive rejection, importance sampling **[adaptive_rejection_sampling.m](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[hybrid_gmm.m](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
+inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
-M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[test_autocorrelation.m](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[gibbs.m](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[优酷](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
+M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[优酷]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
 Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter
