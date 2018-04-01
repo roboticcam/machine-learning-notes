@@ -55,7 +55,7 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 # Probabilistic Model
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, see [gmm_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
 explain in detail of Kalman Filter and Hidden Markov Model, see [kalman_demo.m](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)
