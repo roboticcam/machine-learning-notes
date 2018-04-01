@@ -85,7 +85,7 @@ Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filt
 # Advanced Probabilistic Model
 
 * ### [Bayesian Non Parametrics (BNP) and its inference](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
-Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[dirichlet_process.m](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)**
+Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)**
 
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
