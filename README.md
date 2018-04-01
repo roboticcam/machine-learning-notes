@@ -72,7 +72,7 @@ stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRa
 
 
 * ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
-inverse CDF, rejection, adaptive rejection, importance sampling **demo: **
+inverse CDF, rejection, adaptive rejection, importance sampling **[DEMO adaptive_rejection_sampling.m](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)**
 
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
