@@ -76,7 +76,7 @@ inverse CDF, rejection, adaptive rejection, importance sampling **[DEMO adaptive
 
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
-M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA
+M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[DEMO test_autocorrelation.m](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)**
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
 Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter
