@@ -33,6 +33,9 @@ basic neural networks and multilayer perceptron
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
 
+* ### [Word Representation and Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
+Word2Vec, skip-gram, GloVe, Noise Contrastive Estimation, Negative sampling, Gumbel-max trick
+
 * ### [Other Deep Learning topics](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_learning.pdf) ###
 Other Deep learning models including RNN, GAN and RBM
 
