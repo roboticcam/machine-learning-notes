@@ -87,8 +87,11 @@ Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filt
 
 # Advanced Probabilistic Model
 
-* ### [Bayesian Non Parametrics (BNP) and its inference](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
-Dircihlet Process (DP), Hierarchical DP, HDP-HMM, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)**
+* ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
+Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/chinese_restaurant_process.ipynb)**
+
+* ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics_extensions.pdf) ###
+Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
