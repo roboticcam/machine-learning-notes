@@ -88,7 +88,7 @@ Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filt
 # Advanced Probabilistic Model
 
 * ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
-Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/chinese_restaurant_process.ipynb)**
+Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
 * ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics_extensions.pdf) ###
 Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
