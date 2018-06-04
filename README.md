@@ -42,6 +42,9 @@ RNN, LSTM, Seq2Seq Attenion, Attention is all you need, Convolution Seq2Seq, Poi
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
 
+* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/rbm_gan.pdf) ###
+basic knowledge in Restricted Boltzmann Machine (RBM)
+
 
 # Probability and Statistics Background
 
