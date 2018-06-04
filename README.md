@@ -36,7 +36,7 @@ detailed explanation of CNN, various Loss function, Centre Loss, contrastive Los
 * ### [Word Representation and Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
 Word2Vec, skip-gram, GloVe, Noise Contrastive Estimation, Negative sampling, Gumbel-max trick
 
-* ### [Deep Naturnal Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
+* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
 Other Deep learning models including RNN, LSTM, Seq2Seq Attenion, Attention is all you need, Convolution Seq2Seq, Pointer Networks
 
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
