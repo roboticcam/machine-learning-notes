@@ -33,11 +33,11 @@ basic neural networks and multilayer perceptron
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
 
-* ### [Word Representation and Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
+* ### [Word Representation and approximated Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
 Word2Vec, skip-gram, GloVe, Noise Contrastive Estimation, Negative sampling, Gumbel-max trick
 
 * ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
-RNN, LSTM, Seq2Seq Attenion, Attention is all you need, Convolution Seq2Seq, Pointer Networks
+RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
 
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
