@@ -1,5 +1,5 @@
 # [News] DeeCamp notes at Peking University, July 2018
-* ### [DeeCamp notes I presented: Probability models meets Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/deeCamp.pdf) ###
+* ### [When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/deeCamp.pdf) ###
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier; Probability density re-parameterization; Stochastic matrices and Monte Carlo Inference
 
 # Video Tutorial to these notes.
