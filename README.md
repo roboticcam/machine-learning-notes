@@ -46,7 +46,7 @@ Word2Vec, skip-gram, GloVe, Noise Contrastive Estimation, Negative sampling, Gum
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
 
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
-basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
+basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning (under construction)
 
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)
