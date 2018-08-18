@@ -3,7 +3,7 @@
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
-* ### [Selected Topics on Probability for Deep Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/reparamterization.pdf) ###
+* ### [Selected Topics on Probability for Deep Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
 
 Noise Contrastive Estimation (in details) & Probability density reparameterization
 
