@@ -1,11 +1,12 @@
-# [News] Presentation at DeeCamp & Peking University, July 2018
-* ### [When Probabilities meet Neural Networks (PPT)](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
+# Probabilities and Deep Learning
+* ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
 * ### [Selected Topics on Probability for Deep Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
-
-Noise Contrastive Estimation (in details) & Probability density reparameterization
+Noise Contrastive Estimation (detals & derivations)
+Probability Density Re-parameterization
+Natural Gradients 
 
 # Video Tutorial to these notes.
 
