@@ -1,5 +1,5 @@
 # Probabilities and Deep Learning
-* ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
+* ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018 - 2018年7月在创新工厂和北大合办的DeeCamp的课件（当概率遇到神经网络）](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
@@ -106,3 +106,6 @@ Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
+
+# Special Thanks
+I would like to thank my following PhD students for help me proofreading, and provide great suggestions in various topics, including (but not limited to) Erica Huang,
