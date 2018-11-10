@@ -1,5 +1,5 @@
 # Probabilities and Deep Learning
-* ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018 - <span style="color:red">some *blue* text</span>2018年7月在创新工厂和北大合办的DeeCamp的课件（当概率遇到神经网络）](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
+* ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018 - *2018年7月在创新工厂和北大合办的DeeCamp的课件（当概率遇到神经网络）*](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
