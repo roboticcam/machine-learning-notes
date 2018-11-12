@@ -10,9 +10,6 @@ Detailed illustration of Noise Contrastive Estimation (detals & derivations), Pr
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [bilibili](https://space.bilibili.com/327617676) and [Youku](http://i.youku.com/i/UMzIzNDgxNTg5Ng)       我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
-* I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning models. Contact me on YiDa.Xu@uts.edu.au
-
-
 # Data Science
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)
@@ -108,6 +105,9 @@ Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
 
 # Special Thanks
-I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队的协助我一起校队课件，还有讨论以及对课件提出了许多非常宝贵的意见。其中(不完全的)包括了，常皓东，姜帅，黄皖鸣，邓辰，梁轩
+* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队的协助我一起校队课件，还有讨论以及对课件提出了许多非常宝贵的意见。其中(不完全的)包括了，常皓东，姜帅，黄皖鸣，邓辰，梁轩
 
-Special thanks to Dr Haiguang Huang for his efforts to translate my content into Chinese 特别感谢黄海广博士协助我将课件目录翻译成中文
+* Special thanks to Dr Haiguang Huang for his efforts to translate my content into Chinese 特别感谢黄海广博士协助我将课件目录翻译成中文
+
+* I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning models. Contact me on YiDa.Xu@uts.edu.au
+
