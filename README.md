@@ -63,7 +63,7 @@ detailed explanation of CNN, various Loss function, Centre Loss, contrastive Los
 * ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
 Word2Vec, skip-gram, GloVe, Fasttext
 
-词表示：Word2Vec, skip-gram, GloVe, Fasttext
+系统的介绍了自然语言处理中的“词表示”中的技巧
 
 * ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
