@@ -70,13 +70,15 @@ RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convol
 
 深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
-
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning (under construction)
+
+深度增强学习: 强化学习的基础知识，马尔可夫决策过程，贝尔曼方程，深度Q学习
 
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)
 
+受限玻尔兹曼机(RBM)中的基础知识
 
 # Probability and Statistics Background 
 
