@@ -15,7 +15,7 @@ Detailed illustration of Noise Contrastive Estimation (detals & derivations), Pr
 
 我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
-# Data Science 数据科学
+# Data Science 数据科学课件
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)
 An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
