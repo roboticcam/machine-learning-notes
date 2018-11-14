@@ -1,4 +1,4 @@
-# Research Talks 研究讲义
+# Recent Research Talks 最近的研究讲义
 * ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
