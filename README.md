@@ -144,7 +144,7 @@ Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
 
 # Special Thanks
-* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队的协助我一起校队课件，还有讨论以及对课件提出了许多非常宝贵的意见。其中(不完全的)包括了，常皓东，姜帅，黄皖鸣，邓辰，梁轩
+* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队协助我一起校对课件，以及就课件内容所提出的想法和建议，团队成员包括（但不限于）常皓东，姜帅，黄皖鸣，邓辰，梁轩。
 
 * Special thanks to Dr Haiguang Huang for his efforts to translate my content into Chinese 特别感谢黄海广博士协助我将课件目录翻译成中文
 
