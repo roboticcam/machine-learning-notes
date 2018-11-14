@@ -68,6 +68,9 @@ Word2Vec, skip-gram, GloVe, Fasttext
 * ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
 
+深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
+
+
 * ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning (under construction)
 
