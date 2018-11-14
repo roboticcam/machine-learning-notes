@@ -80,22 +80,29 @@ basic knowledge in Restricted Boltzmann Machine (RBM)
 
 受限玻尔兹曼机(RBM)中的基础知识
 
-# Probability and Statistics Background 
+# Probability and Statistics Background 概率论与数理统计基础
 
 * ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
 revision on Bayes model include Bayesian predictive model, conditional expectation
 
+复习贝叶斯模型，包括贝叶斯预测模型，条件期望等基础知识
+
 * ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters
+
+ 一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
 
 * ### [Statistics Properties](https://github.com/roboticcam/machine-learning-notes/blob/master/statistics.pdf) ###
 useful statistical properties to help us prove things, include Chebyshev and Markov inequality
 
+ 一些非常有用的统计属性可以帮助我们在机器学习中的证明，包括切比雪夫和马尔科夫不等式
 
 # Probabilistic Model
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
+
+ 最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
 explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and **[[HMM 优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** and **[[Kalman Filter 优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
