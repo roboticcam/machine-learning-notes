@@ -116,11 +116,12 @@ explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMT
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
 explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
-变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推导。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)** 
+变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)** 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
 stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRank algorithm
 
+随机矩阵，幂方法收敛定理，详细平衡和谷歌PageRank算法
 
 * ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
 inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
