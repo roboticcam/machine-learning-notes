@@ -38,21 +38,32 @@ classic PCA and t-SNE
 经典的PCA降维法和t-SNE降维法
 
 * ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/industry_master_class.ipynb) ###
-Three perspectives into machine learning and Data Science. Supervised vs Unsupervised Learning, Classification accuracy
+Supervised vs Unsupervised Learning, Classification accuracy
+
+数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
 # Deep Learning (jupyter style notes coming in 2018)
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
 
+常用的优化方法。不仅限于深度学习
+
 * ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
 basic neural networks and multilayer perceptron 
 
-* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
-detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, YOLO, SSD
+神经网络: 基本神经网络和多层感知器
 
-* ### [Word Representation and approximated Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
-Word2Vec, skip-gram, GloVe, Noise Contrastive Estimation, Negative sampling, Gumbel-max trick
+* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
+detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD
+
+卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
+
+
+* ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
+Word2Vec, skip-gram, GloVe, Fasttext
+
+词表示：Word2Vec, skip-gram, GloVe, Fasttext
 
 * ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
