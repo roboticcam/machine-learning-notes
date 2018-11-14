@@ -150,3 +150,4 @@ explain the details of DPP’s marginal distribution, L-ensemble, its sampling s
 
 * I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning models. Contact me on YiDa.Xu@uts.edu.au
 
+如果你想加入我的机器学习博士生团队或有兴趣实习, 请通过YiDa.Xu@uts.edu.au与我联系。
