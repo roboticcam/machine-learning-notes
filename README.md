@@ -126,10 +126,13 @@ stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRa
 * ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
 inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
-累积分布函数逆采样, 拒绝式采样, 自适应拒绝式采样, 重要性采样**[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** 和 **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
+累积分布函数逆采样, 拒绝式采样, 自适应拒绝式采样, 重要性采样 **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** 和 **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
 M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
+
+马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
+
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
 Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3MTE1Mjk2OA)**
