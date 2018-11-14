@@ -108,9 +108,8 @@ Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **
 explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[Youku]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
 状态空间模型(动态模型) 详细解释了卡尔曼滤波器
-**[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** 和 **[[优酷链接]]
-和隐马尔可夫模型
-(http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
+**[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+和隐马尔可夫模型 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
 # Inference
 
