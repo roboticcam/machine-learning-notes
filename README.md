@@ -1,7 +1,8 @@
 # Probabilities and Deep Learning
 * ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
-Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier 
+Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
+
 2018年7月在创新工厂和北大合办的DeeCamp的课件(当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
 
 * ### [Noise Contrastive Estimation, Re-parameterization, Natural Gradients - 噪声对比估计(NCE)，概率参数从新参数化，自然梯度](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
