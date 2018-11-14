@@ -29,6 +29,7 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
+推荐系统: 协同过滤，分解机，非负矩阵分解，乘法更新规则的介绍
 
 * ### [Dimension Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/dimension_reduction.pdf) ###
 classic PCA and t-SNE
