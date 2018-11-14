@@ -139,16 +139,22 @@ Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filt
 
 粒子滤波器（序列蒙特卡洛）**[[优酷链接]](http://v.youku.com/v_show/id_XMTM3MTE1Mjk2OA)**
 
-# Advanced Probabilistic Model
+# Advanced Probabilistic Model 高级概率模型课件
 
 * ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
 Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
+非参贝叶斯及其推导基础: 狄利克雷过程,中国餐馆过程,狄利克雷过程Slice采样 **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** 和 **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
+
 * ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics_extensions.pdf) ###
 Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 
+非参贝叶斯扩展: 层次狄利克雷过程，分层狄利克雷过程-隐马尔可夫模型，印度自助餐过程(IBP)
+
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
+
+行列式点过程解释:行列式点过程的边缘分布，L-ensemble，其抽样策略，我们在“时变行列式点过程”中的工作细节
 
 # Special Thanks
 * I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队协助我一起校对课件，以及就课件内容所提出的想法和建议，团队成员包括（但不限于）常皓东，姜帅，黄皖鸣，邓辰，梁轩。
