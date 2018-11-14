@@ -42,7 +42,7 @@ Supervised vs Unsupervised Learning, Classification accuracy
 
 数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
-# Deep Learning (jupyter style notes coming in 2018)
+# Deep Learning 深度学习
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
