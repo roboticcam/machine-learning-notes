@@ -42,7 +42,7 @@ Supervised vs Unsupervised Learning, Classification accuracy
 
 数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
-# Deep Learning 深度学习
+# Deep Learning 深度学习课件
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
@@ -80,7 +80,7 @@ basic knowledge in Restricted Boltzmann Machine (RBM)
 
 受限玻尔兹曼机(RBM)中的基础知识
 
-# Probability and Statistics Background 概率论与数理统计基础
+# Probability and Statistics Background 概率论与数理统计基础课件
 
 * ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
 revision on Bayes model include Bayesian predictive model, conditional expectation
@@ -97,7 +97,7 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 
  一些非常有用的统计属性可以帮助我们在机器学习中的证明，包括切比雪夫和马尔科夫不等式
 
-# Probabilistic Model
+# Probabilistic Model 概率模型课件
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
@@ -111,11 +111,12 @@ explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMT
 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
 和隐马尔可夫模型 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
-# Inference
+# Inference 推断课件
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
 explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
+变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推导。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)** 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
 stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRank algorithm
