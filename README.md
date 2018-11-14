@@ -25,7 +25,7 @@ An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks t
 * ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/regression.pdf) ###
 Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
 
-分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 (mixed efffects model) **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
+分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
