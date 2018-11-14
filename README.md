@@ -105,10 +105,12 @@ Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **
  最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
-explain in detail of Kalman Filter and Hidden Markov Model, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
+explain in detail of Kalman Filter **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and and Hidden Markov Model, **[[Youku]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
-状态空间模型(动态模型) 详细解释了卡尔曼滤波器和隐马尔可夫模型,
-, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
+状态空间模型(动态模型) 详细解释了卡尔曼滤波器
+**[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** 和 **[[优酷链接]]
+和隐马尔可夫模型
+(http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
 # Inference
 
