@@ -7,7 +7,7 @@ Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinanta
 
 * ### [Noise Contrastive Estimation, Re-parameterization, Natural Gradients](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
 Detailed illustration of Noise Contrastive Estimation (detals & derivations), Probability Density Re-parameterization, Natural Gradients  
-噪声对比估计 (oise Contrastive Estimation), 概率密度再参数化以及自然梯度的详细说明 
+噪声对比估计 (noise Contrastive Estimation), 概率密度再参数化以及自然梯度的详细说明 
 
 # Video Tutorial to these notes 视频资料
 
