@@ -20,7 +20,7 @@ Detailed illustration of Noise Contrastive Estimation (detals & derivations), Pr
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)
 An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
 
-30分钟介绍人工智能和机器学习, 感谢我的学生常皓东进行协助编辑
+30分钟介绍人工智能和机器学习, 感谢我的学生常浩东进行协助编辑
 
 * ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/regression.pdf) ###
 Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
@@ -157,7 +157,7 @@ explain the details of DPP’s marginal distribution, L-ensemble, its sampling s
 行列式点过程解释:行列式点过程的边缘分布，L-ensemble，其抽样策略，我们在“时变行列式点过程”中的工作细节
 
 # Special Thanks
-* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队协助我一起校对课件，以及就课件内容所提出的想法和建议，团队成员包括（但不限于）常皓东，姜帅，黄皖鸣，邓辰，梁轩。
+* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队协助我一起校对课件，以及就课件内容所提出的想法和建议，团队成员包括（但不限于）常浩东，姜帅，黄皖鸣，邓辰，梁轩。
 
 * Special thanks to Dr Haiguang Huang for his efforts to translate my content into Chinese 特别感谢黄海广博士协助我将课件目录翻译成中文
 
