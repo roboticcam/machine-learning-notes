@@ -76,6 +76,11 @@ basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equa
 
 深度增强学习: 强化学习的基础知识，马尔可夫决策过程，贝尔曼方程，深度Q学习
 
+* ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
+How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN
+
+GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，贝叶斯GAN
+
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)
 
