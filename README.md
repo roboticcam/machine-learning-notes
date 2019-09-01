@@ -23,7 +23,7 @@ An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks t
 
 30分钟介绍人工智能和机器学习, 感谢我的学生常浩东进行协助编辑
 
-* ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/regression.pdf) ###
+* ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/regression.pdf) ###
 Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
 
 分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
