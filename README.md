@@ -10,10 +10,6 @@ properties of Softmax, Estimating softmax without denominator, Probability re-pa
 Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 (当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
 
-* ### [Noise Contrastive Estimation, Re-parameterization, Natural Gradients](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
-Detailed illustration of Noise Contrastive Estimation (detals & derivations), Probability Density Re-parameterization, Natural Gradients  
-噪声对比估计 (noise Contrastive Estimation), 概率密度再参数化以及自然梯度的详细说明 
-
 # Video Tutorial to these notes 视频资料
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [bilibili](https://space.bilibili.com/327617676) and [Youku](http://i.youku.com/i/UMzIzNDgxNTg5Ng)       
