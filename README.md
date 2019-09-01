@@ -1,5 +1,5 @@
-# Sinovasinovation DeeCamp Talks 创新工场DeeCAMP讲义
-* ### [When Probabilities meet Neural Networks July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
+# Sinovasinovation DeeCamp  创新工场DeeCAMP讲义
+* ### [2018：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
