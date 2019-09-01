@@ -2,8 +2,8 @@
 
 * ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
 
-properties of Softmax, Estimating softmax without denominator, Probability re-parameterization: Gumbel-Max trick and REBAR algorithm
-(softmax的故事) Softmax的属性, 估计没有分母的softmax, 概率重新参数化, Gumbel-Max技巧和REBAR算法
+properties of Softmax, Estimating softmax without compute denominator, Probability re-parameterization: Gumbel-Max trick and REBAR algorithm
+(softmax的故事) Softmax的属性, 估计softmax时不需计算分母, 概率重新参数化, Gumbel-Max技巧和REBAR算法
 
 * ### [DeeCamp 2018：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/DeeCamp2018_Xu_final.pptx) ###
 
