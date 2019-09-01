@@ -71,11 +71,6 @@ RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convol
 
 深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
-* ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dqn.pdf) ###
-basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning (under construction)
-
-深度增强学习: 强化学习的基础知识，马尔可夫决策过程，贝尔曼方程，深度Q学习
-
 * ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN
 
@@ -85,6 +80,23 @@ GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，�
 basic knowledge in Restricted Boltzmann Machine (RBM)
 
 受限玻尔兹曼机(RBM)中的基础知识
+
+# Reinforcement Learning 强化学习
+
+* ### [Reinforcement Learning Basics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dqn.pdf) ###
+basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning
+
+深度增强学习: 强化学习的基础知识，马尔可夫决策过程，贝尔曼方程，深度Q学习
+
+* ### [Monto Carlo Tree Search](https://github.com/roboticcam/machine-learning-notes/blob/master/files/mcts.pdf) ###
+Monto Carlo Tree Search, alphaGo learning algorithm
+
+蒙托卡罗树搜索，alphaGo学习算法
+
+* ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
+Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm
+
+政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
 
 # Probability and Statistics Background 概率论与数理统计基础课件
 
