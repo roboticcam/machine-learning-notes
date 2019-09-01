@@ -45,67 +45,67 @@ Supervised vs Unsupervised Learning, Classification accuracy
 
 # Deep Learning 深度学习课件
 
-* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/optimization.pdf) ###
+* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
 
 常用的优化方法。不仅限于深度学习
 
-* ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/neural_networks.pdf) ###
+* ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neural_networks.pdf) ###
 basic neural networks and multilayer perceptron 
 
 神经网络: 基本神经网络和多层感知器
 
-* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/cnn_beyond.pdf) ###
+* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD
 
 卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
 
 
-* ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/word_vector.pdf) ###
+* ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/files/word_vector.pdf) ###
 Word2Vec, skip-gram, GloVe, Fasttext
 
 系统的介绍了自然语言处理中的“词表示”中的技巧
 
-* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/deep_nlp.pdf) ###
+* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deep_nlp.pdf) ###
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks
 
 深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
-* ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/dqn.pdf) ###
+* ### [Deep Reinforcement Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dqn.pdf) ###
 basic knowledge in reinforcement learning, Markov Decision Process, Bellman Equation and move onto Deep Q-Learning (under construction)
 
 深度增强学习: 强化学习的基础知识，马尔可夫决策过程，贝尔曼方程，深度Q学习
 
-* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/rbm_gan.pdf) ###
+* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)
 
 受限玻尔兹曼机(RBM)中的基础知识
 
 # Probability and Statistics Background 概率论与数理统计基础课件
 
-* ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/bayesian.pdf) ###
+* ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/files/bayesian.pdf) ###
 revision on Bayes model include Bayesian predictive model, conditional expectation
 
 复习贝叶斯模型，包括贝叶斯预测模型，条件期望等基础知识
 
-* ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/probability.pdf) ###
+* ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters
 
  一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
 
-* ### [Statistics Properties](https://github.com/roboticcam/machine-learning-notes/blob/master/statistics.pdf) ###
+* ### [Statistics Properties](https://github.com/roboticcam/machine-learning-notes/blob/master/files/statistics.pdf) ###
 useful statistical properties to help us prove things, include Chebyshev and Markov inequality
 
  一些非常有用的统计属性可以帮助我们在机器学习中的证明，包括切比雪夫和马尔科夫不等式
 
 # Probabilistic Model 概率模型课件
 
-* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/em.pdf) ###
+* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
  最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MjY1MDU5Mg)**
 
-* ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/dynamic_model.pdf) ###
+* ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dynamic_model.pdf) ###
 explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[Youku]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
 
 状态空间模型(动态模型) 详细解释了卡尔曼滤波器
@@ -114,45 +114,45 @@ explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMT
 
 # Inference 推断课件
 
-* ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/variational.pdf) ###
+* ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variational.pdf) ###
 explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)**
 
 变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1Njc5NzkxNg)** 
 
-* ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/stochastic_matrices.pdf) ###
+* ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/files/stochastic_matrices.pdf) ###
 stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRank algorithm
 
 随机矩阵，幂方法收敛定理，详细平衡和谷歌PageRank算法
 
-* ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/introduction_monte_carlo.pdf) ###
+* ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/introduction_monte_carlo.pdf) ###
 inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
 累积分布函数逆采样, 拒绝式采样, 自适应拒绝式采样, 重要性采样 **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** 和 **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
-* ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/markov_chain_monte_carlo.pdf) ###
+* ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/files/master/markov_chain_monte_carlo.pdf) ###
 M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[Youku]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
 
 马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM1NjAyNDYyNA)**
 
 
-* ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/particle_filter.pdf) ###
+* ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/particle_filter.pdf) ###
 Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter **[[Youku]](http://v.youku.com/v_show/id_XMTM3MTE1Mjk2OA)**
 
 粒子滤波器（序列蒙特卡洛）**[[优酷链接]](http://v.youku.com/v_show/id_XMTM3MTE1Mjk2OA)**
 
 # Advanced Probabilistic Model 高级概率模型课件
 
-* ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics.pdf) ###
+* ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/non_parametrics.pdf) ###
 Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
 非参贝叶斯及其推导基础: 狄利克雷过程,中国餐馆过程,狄利克雷过程Slice采样 **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** 和 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg)** 和 **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
-* ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/non_parametrics_extensions.pdf) ###
+* ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/files/non_parametrics_extensions.pdf) ###
 Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 
 非参贝叶斯扩展: 层次狄利克雷过程，分层狄利克雷过程-隐马尔可夫模型，印度自助餐过程(IBP)
 
-* ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/dpp.pdf) ###
+* ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
 
 行列式点过程解释:行列式点过程的边缘分布，L-ensemble，其抽样策略，我们在“时变行列式点过程”中的工作细节
