@@ -5,7 +5,7 @@
 properties of Softmax, Estimating softmax without denominator, Probability re-parameterization: Gumbel-Max trick and REBAR algorithm
 (softmax的故事) Softmax的属性, 估计没有分母的softmax, 概率重新参数化, Gumbel-Max技巧和REBAR算法
 
-* ### [DeeCamp 2019：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/DeeCamp2018_Xu_final.pptx) ###
+* ### [DeeCamp 2018：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/DeeCamp2018_Xu_final.pptx) ###
 
 Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 (当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
