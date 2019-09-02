@@ -71,7 +71,7 @@ RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convol
 
 深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
-* ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
+* ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/GAN.pdf) ###
 How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN
 
 GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，贝叶斯GAN
