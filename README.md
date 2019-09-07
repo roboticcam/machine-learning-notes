@@ -169,7 +169,7 @@ Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
 
 非参贝叶斯扩展: 层次狄利克雷过程，分层狄利克雷过程-隐马尔可夫模型，印度自助餐过程(IBP)
 
-* ### [Completely Random Measure (early draft)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/random_measure.pdf) ###
+* ### [Completely Random Measure (early draft - written in 2015)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/random_measure.pdf) ###
 Levy-Khintchine representation, Compound Poisson Process, Gamma Process, Negative Binomial Process
 
 Levy-Khintchine表示，复合Poisson过程，Gamma过程，负二项过程
