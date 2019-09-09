@@ -147,9 +147,9 @@ inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rej
 累积分布函数逆采样, 拒绝式采样, 自适应拒绝式采样, 重要性采样 **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** 和 **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/markov_chain_monte_carlo.pdf) ###
-M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24005421)**
+M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23980130)**
 
-马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24005421)**
+马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23980130)**
 
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/particle_filter.pdf) ###
