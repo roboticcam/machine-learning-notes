@@ -118,23 +118,23 @@ useful statistical properties to help us prove things, include Chebyshev and Mar
 # Probabilistic Model 概率模型课件
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[Youku]](https://www.bilibili.com/video/av23901379)**
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
 
  最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dynamic_model.pdf) ###
-explain in detail of Kalman Filter  **[[Youku]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[B站视频链接]](https://www.bilibili.com/video/av24225243)** 
+explain in detail of Kalman Filter  **[[bilibili video]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[B站视频链接]](https://www.bilibili.com/video/av24225243)** 
 
 状态空间模型(动态模型) 详细解释了卡尔曼滤波器
-**[[优酷链接]](http://v.youku.com/v_show/id_XMTM1MzQ1NDk5Ng)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
-和隐马尔可夫模型 **[[优酷链接]](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg)** 
+**[[bilibili video]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+和隐马尔可夫模型 **[[优酷链接]](https://www.bilibili.com/video/av24225243)** 
 
 # Inference 推断课件
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili]](https://www.bilibili.com/video/av24062247)**
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**
 
-变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24075851)** 
+变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
 
 * ### [Stochastic Matrices](https://github.com/roboticcam/machine-learning-notes/blob/master/files/stochastic_matrices.pdf) ###
 stochastic matrix, Power Method Convergence Theorem, detailed balance and PageRank algorithm
@@ -147,22 +147,22 @@ inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rej
 累积分布函数逆采样, 拒绝式采样, 自适应拒绝式采样, 重要性采样 **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** 和 **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/markov_chain_monte_carlo.pdf) ###
-M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[bilibili]](https://www.bilibili.com/video/av24005421)**
+M-H, Gibbs, Slice Sampling, Elliptical Slice sampling, Swendesen-Wang, demonstrate collapsed Gibbs using LDA **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** and **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** and **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24005421)**
 
-马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23980130)**
+马尔可夫链蒙特卡洛的各种方法 **[[lda_gibbs_example.m]](https://github.com/roboticcam/matlab_demos/blob/master/lda_gibbs_example.m)** 和 **[[test_autocorrelation.m]](https://github.com/roboticcam/matlab_demos/blob/master/test_autocorrelation.m)** 和 **[[gibbs.m]](https://github.com/roboticcam/matlab_demos/blob/master/gibbs.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24005421)**
 
 
 * ### [Particle Filter (Sequential Monte-Carlo)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/particle_filter.pdf) ###
-Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter **[[Youku]](https://www.bilibili.com/video/av24285449)**
+Sequential Monte-Carlo, Condensational Filter algorithm, Auxiliary Particle Filter **[[bilibili video]](https://www.bilibili.com/video/av24285449)**
 
 粒子滤波器（序列蒙特卡洛）**[[B站视频链接]](https://www.bilibili.com/video/av24285449)**
 
 # Advanced Probabilistic Model 高级概率模型课件
 
 * ### [Bayesian Non Parametrics (BNP) and its inference basics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/non_parametrics.pdf) ###
-Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[B站视频链接]](https://www.bilibili.com/video/av23881062)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
+Dircihlet Process (DP), Chinese Restaurant Process insights, Slice sampling for DP **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23881062)** and **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
-非参贝叶斯及其推导基础: 狄利克雷过程,中国餐馆过程,狄利克雷过程Slice采样 **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23796612)** 和 **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
+非参贝叶斯及其推导基础: 狄利克雷过程,中国餐馆过程,狄利克雷过程Slice采样 **[[dirichlet_process.m]](https://github.com/roboticcam/matlab_demos/blob/master/dirichlet_process.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23881062)** 和 **[[Jupyter Notebook]](https://github.com/roboticcam/python_machine_learning/blob/master/chinese_restaurant_process.ipynb)**
 
 * ### [Bayesian Non Parametrics (BNP) extensions](https://github.com/roboticcam/machine-learning-notes/blob/master/files/non_parametrics_extensions.pdf) ###
 Hierarchical DP, HDP-HMM, Indian Buffet Process (IBP)
