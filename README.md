@@ -16,34 +16,12 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 
 我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
-# Data Science 数据科学课件
-
-* ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/30_min_AI.pptx)
-An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
-
-30分钟介绍人工智能和机器学习, 感谢我的学生常浩东进行协助编辑
-
-* ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/regression.pdf) ###
-Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
-
-分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
-
-* ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
-collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
-
-推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
-
-* ### [Dimension Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dimension_reduction.pdf) ###
-classic PCA and t-SNE
-
-经典的PCA降维法和t-SNE降维法
-
-* ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
-Supervised vs Unsupervised Learning, Classification accuracy
-
-数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
-
 # Deep Learning 深度学习课件
+
+* ### [New Research on Softmax function](https://github.com/roboticcam/machine-learning-notes/blob/master/files/softmax.pdf) ###
+Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Beams Search (some of these lectures overlap with DeeCamp2019)
+
+分布外、神经网络校准、Gumbel-Max 技巧、随机光束(BEAM)搜索（其中一些讲座与 DeeCamp2019 重叠）
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning
@@ -97,6 +75,33 @@ Monto Carlo Tree Search, alphaGo learning algorithm
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm
 
 政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
+
+# Data Science 数据科学课件
+
+* ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/30_min_AI.pptx)
+An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
+
+30分钟介绍人工智能和机器学习, 感谢我的学生常浩东进行协助编辑
+
+* ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/regression.pdf) ###
+Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
+
+分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
+
+* ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
+collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule
+
+推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
+
+* ### [Dimension Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dimension_reduction.pdf) ###
+classic PCA and t-SNE
+
+经典的PCA降维法和t-SNE降维法
+
+* ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
+Supervised vs Unsupervised Learning, Classification accuracy
+
+数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
 # Probability and Statistics Background 概率论与数理统计基础课件
 
