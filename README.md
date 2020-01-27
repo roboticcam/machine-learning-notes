@@ -16,7 +16,7 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 
 我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
-# Deep 3D Geometry Computer vision 深度3D几何计算机视觉 
+# 3D Geometry Computer vision 3D几何计算机视觉 
 
 * ### [3D Geometry Fundamentals](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_foundation.pdf) ###
 Camera Models, Intrinsic and Extrinsic parameter estimation, Fundamental and essential Matrix, 3D reconstruction, Depth Estimation
