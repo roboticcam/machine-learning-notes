@@ -25,7 +25,7 @@ Camera Models, Intrinsic and Extrinsic parameter estimation, Epipolar Geometry, 
 * ### [Recent Deep 3D Geometry based Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_research.pdf) ###
 Recent research of the following topics: Single image to Camera Model estimation, Multi-Person 3D pose estimation from multi-view, GAN-based 3D pose estimation, Deep Structure-from-Motion, Deep Learning based Depth Estimation, 以下主题的最新研究：单图像到相机模型的估计，基于多视图的多人3D姿势估计，基于GAN的3D姿势估计，基于运动的深度结构，基于深度学习的深度估计
 
-This section is co-authored with PhD student Yang Li 本部分与博士研究生李阳合写
+This section is co-authored with PhD student Yang Li 本部分与博士研究生李杨合写
 
 # Deep Learning 深度学习课件
 
