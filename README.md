@@ -16,6 +16,16 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 
 我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
+# Deep 3D Geometry Computer vision 深度3D几何计算机视觉 Co-authored with PhD student Yang Li 和博士生李杨一起撰写
+
+* ### [3D Geometry Fundamentals](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_foundation.pdf) ###
+Camera Models, Intrinsic and Extrinsic parameter estimation, Fundamental and essential Matrix, 3D reconstruction, Depth Estimation
+相机模型，内部和外部参数估计，基本和基本矩阵，3D重建，图像深度估计
+
+* ### [Recent Deep 3D Geometry based Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_research.pdf) ###
+Recent research of the following topics: Single image to Camera Model estimation, Multi-Person 3D pose estimation from multi-view, GAN-based 3D pose estimation, Deep Structure-from-Motion, Deep Learning based Depth Estimation, 以下主题的最新研究：单图像到相机模型的估计，基于多视图的多人3D姿势估计，基于GAN的3D姿势估计，基于运动的深度结构，基于深度学习的深度估计
+
+
 # Deep Learning 深度学习课件
 
 * ### [New Research on Softmax function](https://github.com/roboticcam/machine-learning-notes/blob/master/files/softmax.pdf) ###
