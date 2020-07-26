@@ -1,3 +1,10 @@
+# Infinity in Deep Learning 深度学习中的无限集
+
+* ### [NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
+
+Discuss Neural ODE and in particular the use of adjoint equation in Parameter training
+讨论神经ODE，尤其是在参数训练中使用伴随方程
+
 # Sinovasinovation DeeCamp 创新工场DeeCAMP讲义
 
 * ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
