@@ -197,6 +197,10 @@ Levy-Khintchine representation, Compound Poisson Process, Gamma Process, Negativ
 
 Levy-Khintchine表示，复合Poisson过程，Gamma过程，负二项过程
 
+* ### [Sample correlated integers from HDP and Copula](https://github.com/roboticcam/machine-learning-notes/blob/master/files/copula_dp.pdf) ###
+This is an alternative explanation to our IJCAI 2016 papers (https://www.ijcai.org/Proceedings/16/Papers/210.pdf). The derivations are different from the paper, but portraits the same story.
+这是对我的IJCAI2016论文(https://www.ijcai.org/Proceedings/16/Papers/210.pdf) 的一个不同解释。虽然写的方法公式推导不同，但描绘的是同一事情
+
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP
 
