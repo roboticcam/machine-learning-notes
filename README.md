@@ -1,4 +1,4 @@
-# Infinity in Deep Learning 深度学习中的无限集
+# Infinity in Deep Learning 深度学习“无限”精彩
 
 * ### [NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
 
