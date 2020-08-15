@@ -2,6 +2,9 @@
 
 * ### [Infinite Width: Neural Networks as Gaussian Process](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gp_nn.pdf) ###
 
+Detailed derivation of neural networks as Gaussian Process using central Limit theorem
+使用中心极限定理详细推导神经网络作为高斯过程
+
 * ### [Infinite Depth: NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
 
 Discuss Neural ODE and in particular the use of adjoint equation in Parameter training
