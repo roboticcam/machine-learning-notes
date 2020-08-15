@@ -1,6 +1,8 @@
 # Infinity in Deep Learning 深度学习“无限”精彩
 
-* ### [NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
+* ### [Infinite Width: Neural Networks as Gaussian Process](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gp_nn.pdf) ###
+
+* ### [Infinite Depth: NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
 
 Discuss Neural ODE and in particular the use of adjoint equation in Parameter training
 讨论神经ODE，尤其是在参数训练中使用伴随方程
