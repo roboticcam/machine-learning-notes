@@ -41,6 +41,9 @@ This section is co-authored with PhD student Yang Li 本部分与博士研究生
 
 # Deep Learning 深度学习课件
 
+* ### [Variance Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variance_reduction.pdf) ###
+REBAR, RELAX algorithm and some detailed explanation of re-parameterization of Gumbel conditionals
+
 * ### [New Research on Softmax function](https://github.com/roboticcam/machine-learning-notes/blob/master/files/softmax.pdf) ###
 Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Beams Search (some of these lectures overlap with DeeCamp2019)
 
