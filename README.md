@@ -38,13 +38,19 @@ Recent research of the following topics: Single image to Camera Model estimation
 
 This section is co-authored with PhD student Yang Li 本部分与博士研究生李杨合写
 
-# Deep Learning 深度学习课件
+# Deep Learning Research Topics 深度学习研究
 
 * ### [Variance Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variance_reduction.pdf) ###
 REBAR, RELAX algorithm and some detailed explanation of re-parameterization of Gumbel conditionals   REBAR，RELAX算法以及对Gumbel条件概率重新参数化的一些详细说明
 
 * ### [New Research on Softmax function](https://github.com/roboticcam/machine-learning-notes/blob/master/files/softmax.pdf) ###
 Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Beams Search (some of these lectures overlap with DeeCamp2019)  分布外、神经网络校准、Gumbel-Max 技巧、随机光束(BEAM)搜索（其中一些讲座与 DeeCamp2019 重叠）
+
+* ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/GAN.pdf) ###
+How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，贝叶斯GAN
+
+
+# Deep Learning Basics 深度学习基础
 
 * ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/optimization.pdf) ###
 Optimisation methods in general. not limited to just Deep Learning  常用的优化方法。不仅限于深度学习
@@ -55,18 +61,9 @@ basic neural networks and multilayer perceptron    神经网络: 基本神经网
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD   卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
 
-
-* ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/files/word_vector.pdf) ###
-Word2Vec, skip-gram, GloVe, Fasttext   系统的介绍了自然语言处理中的“词表示”中的技巧
-
-* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deep_nlp.pdf) ###
-RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks   深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
-
-* ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/GAN.pdf) ###
-How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，贝叶斯GAN
-
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
+
 
 # Reinforcement Learning 强化学习
 
@@ -79,6 +76,16 @@ Monto Carlo Tree Search, alphaGo learning algorithm   蒙托卡罗树搜索，al
 * ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm   政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
 
+
+# Natural Language Processing 自然语言处理
+
+* ### [Word Embeddings](https://github.com/roboticcam/machine-learning-notes/blob/master/files/word_vector.pdf) ###
+Word2Vec, skip-gram, GloVe, Fasttext   系统的介绍了自然语言处理中的“词表示”中的技巧
+
+* ### [Deep Natural Language Processing](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deep_nlp.pdf) ###
+RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks   深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
+
+
 # Data Science 数据科学课件
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/30_min_AI.pptx)
@@ -89,6 +96,9 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 
 分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
 
+* ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
+A quick explanation of Lagrangian duality and support vector machines     关于拉格朗日对偶和支持向量机的简单说明
+
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule     推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
 
@@ -97,6 +107,7 @@ classic PCA and t-SNE     经典的PCA降维法和t-SNE降维法
 
 * ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
 Supervised vs Unsupervised Learning, Classification accuracy    数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
+
 
 # Probability and Statistics Background 概率论与数理统计基础课件
 
