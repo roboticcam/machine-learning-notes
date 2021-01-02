@@ -47,7 +47,7 @@ REBAR, RELAX algorithm and some detailed explanation of re-parameterization of G
 Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Beams Search (some of these lectures overlap with DeeCamp2019)  分布外、神经网络校准、Gumbel-Max 技巧、随机光束(BEAM)搜索（其中一些讲座与 DeeCamp2019 重叠）
 
 * ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/GAN.pdf) ###
-How GAN works, Traditional GAN, Mathematics on W-GAN, Duality and KKT conditions, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，对偶性和KKT条件，Info-GAN，贝叶斯GAN
+How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，Info-GAN，贝叶斯GAN
 
 
 # Deep Learning Basics 深度学习基础
@@ -97,7 +97,7 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
 
 * ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
-A quick explanation of Lagrangian duality and support vector machines     关于拉格朗日对偶和支持向量机的简单说明
+A quick explanation of Lagrangian duality, KKT condition and support vector machines     关于拉格朗日对偶,对偶性和KKT条件,支持向量机的简单说明
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule     推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
