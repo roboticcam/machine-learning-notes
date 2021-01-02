@@ -31,8 +31,7 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 # 3D Geometry Computer vision 3D几何计算机视觉 
 
 * ### [3D Geometry Fundamentals](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_foundation.pdf) ###
-Camera Models, Intrinsic and Extrinsic parameter estimation, Epipolar Geometry, 3D reconstruction, Depth Estimation
-相机模型，内部和外部参数估计，对极几何，三维重建，图像深度估计
+Camera Models, Intrinsic and Extrinsic parameter estimation, Epipolar Geometry, 3D reconstruction, Depth Estimation 相机模型，内部和外部参数估计，对极几何，三维重建，图像深度估计
 
 * ### [Recent Deep 3D Geometry based Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_research.pdf) ###
 Recent research of the following topics: Single image to Camera Model estimation, Multi-Person 3D pose estimation from multi-view, GAN-based 3D pose estimation, Deep Structure-from-Motion, Deep Learning based Depth Estimation, 以下主题的最新研究：单图像到相机模型的估计，基于多视图的多人3D姿势估计，基于GAN的3D姿势估计，基于运动的深度结构，基于深度学习的深度估计
@@ -43,6 +42,7 @@ This section is co-authored with PhD student Yang Li 本部分与博士研究生
 
 * ### [Variance Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variance_reduction.pdf) ###
 REBAR, RELAX algorithm and some detailed explanation of re-parameterization of Gumbel conditionals
+REBAR，RELAX算法以及对Gumbel条件概率重新参数化的一些详细说明
 
 * ### [New Research on Softmax function](https://github.com/roboticcam/machine-learning-notes/blob/master/files/softmax.pdf) ###
 Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Beams Search (some of these lectures overlap with DeeCamp2019)
