@@ -73,7 +73,7 @@ Monto Carlo Tree Search, alphaGo learning algorithm   蒙托卡罗树搜索，al
 * ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm   政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
 
-# Optimization 自然语言处理
+# Optimization Method 优化方法
 
 * ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
 A quick explanation of Lagrangian duality, KKT condition, support vector machines    关于拉格朗日对偶,对偶性和KKT条件,支持向量机的简单说明
