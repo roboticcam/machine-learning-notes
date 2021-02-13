@@ -52,9 +52,6 @@ How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   G
 
 # Deep Learning Basics 深度学习基础
 
-* ### [Optimisation methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/optimization.pdf) ###
-Optimisation methods in general. not limited to just Deep Learning  常用的优化方法。不仅限于深度学习
-
 * ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neural_networks.pdf) ###
 basic neural networks and multilayer perceptron    神经网络: 基本神经网络和多层感知器
 
@@ -76,6 +73,14 @@ Monto Carlo Tree Search, alphaGo learning algorithm   蒙托卡罗树搜索，al
 * ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm   政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
 
+# Optimization 自然语言处理
+
+* ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
+A quick explanation of Lagrangian duality, KKT condition, support vector machines    关于拉格朗日对偶,对偶性和KKT条件,支持向量机的简单说明
+
+* ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/conjugate.pdf) ###
+A quick explanation of Conjugate Gradient Descend     共轭梯度下降的快速解释
+
 
 # Natural Language Processing 自然语言处理
 
@@ -96,8 +101,6 @@ Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect
 
 分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
 
-* ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
-A quick explanation of Lagrangian duality, KKT condition and support vector machines     关于拉格朗日对偶,对偶性和KKT条件,支持向量机的简单说明
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule     推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
