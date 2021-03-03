@@ -50,6 +50,10 @@ Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Be
 How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，Info-GAN，贝叶斯GAN
 
 
+* ### [Bayesian Inference and Deep Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/bayesian_inference_machine_learning.pdf) ###
+This is a seminar talk I gave on some modern examples in which Bayesian (or probabilistic) framework is to explain, assist and assisted by Deep Learning. 这是我的演讲稿件。归纳了一些最近研究例子中，贝叶斯（或概率）框架来解释，帮助(或被帮助于)深度学习。
+
+
 # Deep Learning Basics 深度学习基础
 
 * ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neural_networks.pdf) ###
