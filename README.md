@@ -1,9 +1,9 @@
 # Infinity in Deep Learning 深度学习“无限”精彩
 
-* ### [Infinite Width: Neural Networks as Gaussian Process and Neural Tangent Kernel (NTK)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
+* ### [Neural Networks Gaussian Process and Neural Tangent Kernel Initialization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
 
-Detailed derivation of neural networks as (1) Gaussian Process using central Limit theorem (2) Neural Tangent Kernel (NTK)
-(1) 使用中心极限定理详细推导神经网络作为高斯过程 (2) 神经正切核 Neural Tangent Kernel (NTK)
+The detailed derivation of (1) Neural Network Gaussian process using central limit theorem (2) Neural Tangent Kernel (NTK) for initialization
+详细推导（1）使用中心极限定理的神经网络高斯过程（2）神经正切核（NTK）进行初始化
 
 * ### [Infinite Depth: NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
 
