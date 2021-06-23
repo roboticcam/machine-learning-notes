@@ -50,7 +50,7 @@ Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Be
 How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，Info-GAN，贝叶斯GAN
 
 * ### [Advanced Variational Autoencoder](https://github.com/roboticcam/machine-learning-notes/blob/master/files/vb_nf.pdf) ###
-How Varational Autoencoder works, Importance Weighted Autoencoders, Normalized Flow via ELBO, Adversarial Variational Bayes,  变分自编码器的工作原理，重要性加权自编码器，通过ELBO的标准化流，反变分贝叶斯
+How Varational Autoencoder works, Importance Weighted Autoencoders, Normalized Flow via ELBO, Adversarial Variational Bayes,  变分自编码器的工作原理，重要性加权自编码器，通过ELBO的标准化流，对抗变分贝叶斯
 
 * ### [Bayesian Inference and Deep Learning (Seminar Talk)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/bayesian_inference_deep_learning.pdf) ###
 This is a seminar talk I gave on some modern examples in which Bayesian (or probabilistic) framework is to explain, assist and assisted by Deep Learning. 这是我的演讲稿件。归纳了一些最近研究例子中，贝叶斯（或概率）框架来解释，帮助(或被帮助于)深度学习。
