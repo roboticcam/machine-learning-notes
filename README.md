@@ -1,3 +1,7 @@
+# Learning Theory Lecture
+* ### [Week 1: Introduction (Prior to Class)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
+
+
 # Infinity in Deep Learning 深度学习“无限”精彩
 
 * ### [Neural Networks Gaussian Process and Neural Tangent Kernel Initialization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
