@@ -1,4 +1,4 @@
-# Learning Theory Lecture
+# Learning Theory Classes (August - October 2021)
 * ### [Week 1: Introduction (Prior to Class)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.%20introduction.pdf) ###
 
 
