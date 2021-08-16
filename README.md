@@ -1,5 +1,5 @@
 # Learning Theory Classes (August - October 2021)
-* ### [Week 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.%20introduction.pdf) ###
+* ### [Week 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
 
 
 # Infinity in Deep Learning 深度学习“无限”精彩
