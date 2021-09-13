@@ -1,6 +1,7 @@
 # Learning Theory Classes (August - October 2021)
 * ### [Week 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
 * ### [Week 2: Concentration Inequality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/2.concentration_inequality.pdf) ###
+* ### [Week 3: Rademarcher Complexity](https://github.com/roboticcam/machine-learning-notes/blob/master/files/3.rademarcher.pdf) ###
 
 # Infinity in Deep Learning 深度学习“无限”精彩
 
