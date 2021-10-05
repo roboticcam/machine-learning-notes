@@ -1,4 +1,7 @@
 # Learning Theory Classes (August - October 2021)
+
+In 2021, I have extended my research training to all machine learning PhD students in Australian universities. This is one of my last contributions to the Australian research community before moving to Hong Kong:
+
 * ### [Week 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
 * ### [Week 2: Concentration Inequality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/2.concentration_inequality.pdf) ###
 * ### [Week 3: Rademarcher Complexity](https://github.com/roboticcam/machine-learning-notes/blob/master/files/3.rademarcher.pdf) ###
