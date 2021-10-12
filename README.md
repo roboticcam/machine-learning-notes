@@ -6,6 +6,7 @@ In 2021, I have extended my research training to all machine learning PhD studen
 * ### [Week 2: Concentration Inequality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/2.concentration_inequality.pdf) ###
 * ### [Week 3: Rademarcher Complexity](https://github.com/roboticcam/machine-learning-notes/blob/master/files/3.rademarcher.pdf) ###
 * ### [Week 4: Neural Tangent Kernel](https://github.com/roboticcam/machine-learning-notes/blob/master/files/4.ntk.pdf) ###
+* ### [Week 5: PAC Bayes](https://github.com/roboticcam/machine-learning-notes/blob/master/files/5.pac_bayes.pdf) ###
 
 
 # Infinity in Deep Learning 深度学习“无限”精彩
