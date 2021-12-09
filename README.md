@@ -21,7 +21,7 @@ The detailed derivation of (1) Neural Network Gaussian process using central lim
 Discuss Neural ODE and in particular the use of adjoint equation in Parameter training
 讨论神经ODE，尤其是在参数训练中使用伴随方程
 
-# Sinovasinovation DeeCamp 创新工场DeeCAMP讲义
+# Sinovation DeeCamp 创新工场DeeCAMP讲义
 
 * ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
 
