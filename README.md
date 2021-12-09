@@ -197,6 +197,7 @@ This is an alternative explanation to our [IJCAI 2016 papers](https://www.ijcai.
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP     行列式点过程解释:行列式点过程的边缘分布，L-ensemble，其抽样策略，我们在“时变行列式点过程”中的工作细节
 
 # Special Thanks
-* I would like to thank my following PhD students for help me proofreading, and provide great discussions and suggestions to various topics in these notes, including (but not limited to) Hayden Chang, Shawn Jiang, Erica Huang, Deng Chen, Ember Liang; 特别感谢我的博士生团队协助我一起校对课件，以及就课件内容所提出的想法和建议，团队成员包括（但不限于）常浩东，姜帅，黄皖鸣，邓辰，梁轩。
+* I want to thank all the Universities where I have worked for tolerating me indulging my love of knowledge dissemination. 
+我要感谢所有我工作过的大学容忍我沉迷于知识传播
 
 * I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning models. Contact me on YiDa.Xu@uts.edu.au     如果你想加入我的机器学习博士生团队或有兴趣实习, 请通过YiDa.Xu@uts.edu.au与我联系。
