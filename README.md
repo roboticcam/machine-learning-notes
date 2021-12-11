@@ -196,6 +196,9 @@ This is an alternative explanation to our [IJCAI 2016 papers](https://www.ijcai.
 * ### [Determinantal Point Process](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dpp.pdf) ###
 explain the details of DPP’s marginal distribution, L-ensemble, its sampling strategy, our work in time-varying DPP     行列式点过程解释:行列式点过程的边缘分布，L-ensemble，其抽样策略，我们在“时变行列式点过程”中的工作细节
 
+* ### [Determinantal Point Process Basics (updated)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dpp_new.pdf) ###
+this is a re-write of the previous DPP tutorial without the time-vaying part      这是之前DPP教程的重写，没有时间变化部分
+
 # Special Thanks
 * I want to thank all the Universities where I have worked for tolerating me indulging my love of knowledge dissemination. 
 我要感谢所有我工作过的大学容忍我沉迷于知识传播
