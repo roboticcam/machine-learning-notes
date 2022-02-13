@@ -1,8 +1,8 @@
 # Learning Theory Classes (August - October 2021)
 
-2022年我坚持每周六晚上8:30直播 Learning Theory 课程系列
+2022年我坚持每周六晚上8:30直播 Learning Theory 课程系列 - From 2022, I hold regular 8:30pm live broadcast on Learning Theory.
 
-In 2021, I have extended my research training to all machine learning PhD students in Australian universities with more than 100 students attending via Zoom. I am looking forward to running them again later: (if you are interested to join the class, please email me)
+Previoulsy, in 2021, I have extended my research training to all machine learning PhD students in Australian universities with more than 100 students attending via Zoom. I am looking forward to running them again later: (if you are interested to join the class, please email me)
 
 * ### [Class 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
 * ### [Class 2: Concentration Inequality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/2.concentration_inequality.pdf) ###
