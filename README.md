@@ -95,8 +95,9 @@ Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natur
 
 # Optimization Method 优化方法
 
-* ### [Quick note on Lagrangian Dual](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
-A quick explanation of Lagrangian duality, KKT condition, support vector machines    关于拉格朗日对偶,对偶性和KKT条件,支持向量机的简单说明
+* ### [Tutorial on Duality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
+Lagrangian duality, dual function, KKT condition, example on support vector machines and Farkas Lemma 拉格朗日对偶、对偶函数、KKT 条件、支持向量机示例 和 Farkas 引理
+
 
 * ### [Conjugate Gradient Descend](https://github.com/roboticcam/machine-learning-notes/blob/master/files/conjugate.pdf) ###
 A quick explanation of Conjugate Gradient Descend     共轭梯度下降的快速解释
