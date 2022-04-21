@@ -206,4 +206,4 @@ this is a re-write of the previous DPP tutorial without the time-vaying part    
 * I want to thank all the Universities where I have worked for tolerating me indulging my love of knowledge dissemination. 
 我要感谢所有我工作过的大学容忍我沉迷于知识传播
 
-* I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning models. Contact me on xuyida@hkbu.edu.hk     如果你想加入我的机器学习博士生团队或有兴趣实习, 请通过xuyida@hkbu.edu.hk与我联系。
+* I always look for high quality PhD students in Machine Learning, both in terms of probabilistic model and Deep Learning theory. Contact me on xuyida@hkbu.edu.hk     如果你想加入我的机器学习博士生团队或有兴趣合作, 请通过xuyida@hkbu.edu.hk与我联系。
