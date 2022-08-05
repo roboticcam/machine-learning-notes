@@ -2,7 +2,7 @@
 
 2022年我坚持每周六晚上8:30直播 Learning Theory 课程系列 ([微信二维码在这个链接](https://github.com/roboticcam/machine-learning-notes/blob/master/files/class_qrcode.jpg))- From 2022, I hold regular 8:30pm live broadcast on Learning Theory.
 
-After moving to Hong Kong, I also started a machine learning research seminar series every 2-3 weeks (all in English) in Zoom. It's at 7pm Hong Kong Time. You can register via https://www.meetup.com/machine-learning-hong-kong/ 
+After moving to Hong Kong, I also started a machine learning research seminar series every 2-3 weeks (all in English) via Zoom. It's at 7pm Hong Kong Time. You can register via https://www.meetup.com/machine-learning-hong-kong/ 
 
 (Back in Australia, I conducted research training to all machine learning PhD students at Australian universities, with over 100 students participating via Zoom.)
 
