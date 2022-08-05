@@ -96,6 +96,10 @@ Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natur
 
 # Optimization Method 优化方法
 
+* ### [Tutorial on Gradient Descend Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gradient_desend.pdf) ###
+This is a progressive research note on Implicit Bias and Implicit Regularization of Gradient Descent Algorithms (check out my biweekly seminars), Convergence Research for Stochastic Gradient Descent etc.这是关于梯度下降算法的隐式偏差和隐式正则化的渐进式研究笔记（查看我的双周研讨会）、随机梯度下降的收敛研究等。
+
+
 * ### [Tutorial on Duality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
 Lagrangian duality, dual function, KKT condition, example on support vector machines and Farkas Lemma 拉格朗日对偶、对偶函数、KKT 条件、支持向量机示例 和 Farkas 引理
 
