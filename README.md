@@ -1,8 +1,13 @@
-# Learning Theory Classes
+# Announcement
 
 2022年我坚持每周六晚上8:30直播 Learning Theory 课程系列 ([微信二维码在这个链接](https://github.com/roboticcam/machine-learning-notes/blob/master/files/class_qrcode.jpg))- From 2022, I hold regular 8:30pm live broadcast on Learning Theory.
 
-Previoulsy, in 2021, I have extended my research training to all machine learning PhD students at Australian universities, with over 100 students participating via Zoom. In addition to my Chinese Learning Theory class, I also look forward to having English classes in the future: (If you are interested in attending, please email me)
+After moving to Hong Kong, I also started a machine learning research seminar series every 2-3 weeks (all in English). You can register by:
+https://www.meetup.com/machine-learning-hong-kong/
+
+(Back in Australia, I conducted research training to all machine learning PhD students at Australian universities, with over 100 students participating via Zoom.)
+
+# Learning Theory Classes
 
 * ### [Class 1: Introduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/1.introduction.pdf) ###
 * ### [Class 2: Concentration Inequality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/2.concentration_inequality.pdf) ###
