@@ -3,7 +3,7 @@
 ### 中文机器学习研究线上课
 2022年我坚持每周六晚上8:30直播机器学习研究课程系列 ([微信二维码在这个链接](https://github.com/roboticcam/machine-learning-notes/blob/master/files/class_qrcode.jpg))- From 2022, I hold regular 8:30pm live broadcast on Machine Learning theory.
 
-### English Version
+### English Machine Learning Research series
 From April 2022, I started a machine learning research seminar series every 2-3 weeks in English via Zoom. It's at 7pm Hong Kong Time. I will continue to explain machine learning using an intermediate level mathematics. The current topic is: "Gradient Descend Research". You need a solid understanding of linear algebra, calculus, probability and statistics.
 You can register via meetup https://www.meetup.com/machine-learning-hong-kong/ 
 (Back in Australia, I also conducted research training to all machine learning PhD students at Australian universities, with over 100 students participating via Zoom.)
