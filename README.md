@@ -1,7 +1,7 @@
 # Live Machine Learning Class:
 
 ### 中文机器学习研究线上课
-2022年我坚持每周六晚上8:30直播机器学习研究课程系列 ([微信二维码在这个链接](https://github.com/roboticcam/machine-learning-notes/blob/master/files/class_qrcode.jpg))- From 2022, I hold regular 8:30pm live broadcast on Machine Learning theory.
+2022年我坚持每周日晚上8:30直播机器学习研究课程系列 ([微信二维码在这个链接](https://github.com/roboticcam/machine-learning-notes/blob/master/files/class_qrcode.jpg))- From 2022, I hold regular 8:30pm Sunday Night live (SNL) broadcast on Machine Learning theory.
 
 ### English version
 From April 2022, I started a machine learning research seminar series every 2-3 weeks in English via Zoom. It's at 7pm Hong Kong Time. I will continue to explain machine learning using an intermediate level mathematics. The current topic is: "Gradient Descend Research". You need a solid understanding of linear algebra, calculus, probability and statistics.
