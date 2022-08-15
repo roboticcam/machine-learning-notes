@@ -83,6 +83,20 @@ Discuss Neural ODE and in particular the use of adjoint equation in Parameter tr
 This is a seminar talk I gave on some modern examples in which Bayesian (or probabilistic) framework is to explain, assist and assisted by Deep Learning. 这是我的演讲稿件。归纳了一些最近研究例子中，贝叶斯（或概率）框架来解释，帮助(或被帮助于)深度学习。
 
 
+# Optimization Method 优化方法
+
+* ### [Tutorial on Gradient Descend Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gradient_desend.pdf) ###
+This is a progressive research note on Implicit Bias and Implicit Regularization of Gradient Descent Algorithms (check out my biweekly seminars), Convergence Research for Stochastic Gradient Descent etc.这是关于梯度下降算法的隐式偏差和隐式正则化的渐进式研究笔记（查看我的双周研讨会）、随机梯度下降的收敛研究等。
+
+
+* ### [Tutorial on Duality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
+Lagrangian duality, dual function, KKT condition, example on support vector machines and Farkas Lemma 拉格朗日对偶、对偶函数、KKT 条件、支持向量机示例 和 Farkas 引理
+
+
+* ### [Conjugate Gradient Descend](https://github.com/roboticcam/machine-learning-notes/blob/master/files/conjugate.pdf) ###
+A quick explanation of Conjugate Gradient Descend     共轭梯度下降的快速解释
+
+
 # Deep Learning Basics 深度学习基础
 
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
@@ -112,19 +126,6 @@ Monto Carlo Tree Search, alphaGo learning algorithm   蒙托卡罗树搜索，al
 
 * ### [Policy Gradient](https://github.com/roboticcam/machine-learning-notes/blob/master/files/policy_gradient.pdf) ###
 Policy Gradient Theorem, Mathematics on Trusted Region Optimization in RL, Natural Gradients on TRPO, Proximal Policy Optimization (PPO), Conjugate Gradient Algorithm   政策梯度定理, RL中可信区域优化的数学,TRPO自然梯度, 近似策略优化(PPO), 共轭梯度算法
-
-# Optimization Method 优化方法
-
-* ### [Tutorial on Gradient Descend Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gradient_desend.pdf) ###
-This is a progressive research note on Implicit Bias and Implicit Regularization of Gradient Descent Algorithms (check out my biweekly seminars), Convergence Research for Stochastic Gradient Descent etc.这是关于梯度下降算法的隐式偏差和隐式正则化的渐进式研究笔记（查看我的双周研讨会）、随机梯度下降的收敛研究等。
-
-
-* ### [Tutorial on Duality](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dual.pdf) ###
-Lagrangian duality, dual function, KKT condition, example on support vector machines and Farkas Lemma 拉格朗日对偶、对偶函数、KKT 条件、支持向量机示例 和 Farkas 引理
-
-
-* ### [Conjugate Gradient Descend](https://github.com/roboticcam/machine-learning-notes/blob/master/files/conjugate.pdf) ###
-A quick explanation of Conjugate Gradient Descend     共轭梯度下降的快速解释
 
 
 # Natural Language Processing 自然语言处理
