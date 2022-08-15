@@ -104,9 +104,6 @@ This is a seminar talk I gave on some modern examples in which Bayesian (or prob
 
 # Deep Learning Basics 深度学习基础
 
-* ### [Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neural_networks.pdf) ###
-basic neural networks and multilayer perceptron    神经网络: 基本神经网络和多层感知器
-
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD   卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
 
