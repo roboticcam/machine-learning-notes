@@ -168,19 +168,10 @@ classic PCA and t-SNE     经典的PCA降维法和t-SNE降维法
 * ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
 Supervised vs Unsupervised Learning, Classification accuracy    数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
-
-# Probability and Statistics Background 概率论与数理统计基础课件
-
-* ### [Bayesian model](https://github.com/roboticcam/machine-learning-notes/blob/master/files/bayesian.pdf) ###
-revision on Bayes model include Bayesian predictive model, conditional expectation     复习贝叶斯模型，包括贝叶斯预测模型，条件期望等基础知识
+# Probabilistic Model 概率模型课件
 
 * ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters     一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
-
-* ### [Statistics Properties](https://github.com/roboticcam/machine-learning-notes/blob/master/files/statistics.pdf) ###
-useful statistical properties to help us prove things, include Chebyshev and Markov inequality     一些非常有用的统计属性可以帮助我们在机器学习中的证明，包括切比雪夫和马尔科夫不等式
-
-# Probabilistic Model 概率模型课件
 
 * ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
