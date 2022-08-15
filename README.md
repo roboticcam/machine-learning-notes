@@ -145,25 +145,18 @@ Word2Vec, skip-gram, GloVe, Fasttext   系统的介绍了自然语言处理中�
 RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convolution Seq2Seq, Pointer Networks   深度自然语言处理：递归神经网络,LSTM,具有注意力机制的Seq2Seq，集束搜索，指针网络和 "Attention is all you need", 卷积Seq2Seq
 
 
-# Data Science 数据科学课件
+# Data Science PowerPoint and Source Code 数据科学 PowerPoint 和源代码
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/30_min_AI.pptx)
 An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing   30分钟介绍人工智能和机器学习, 感谢我的学生常浩东进行协助编辑
 
-* ### [Regression methods](https://github.com/roboticcam/machine-learning-notes/blob/master/files/regression.pdf) ###
-Classification: Logistic and Softmax; Regression: Linear, polynomial; Mix Effect model **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** and **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
-
-分类介绍: Logistic回归和Softmax分类; 回归介绍：线性回归，多项式回归; 混合效果模型 **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 和 **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)**
-
+* **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 
+* **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
+* [industry data science Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule     推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
 
-* ### [Dimension Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dimension_reduction.pdf) ###
-classic PCA and t-SNE     经典的PCA降维法和t-SNE降维法
-
-* ### [Introduction to Data Analytics](https://github.com/roboticcam/machine-learning-notes/blob/master/files/AI_and_machine_learning.pdf) and [associate Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
-Supervised vs Unsupervised Learning, Classification accuracy    数据分析简介和相关的jupyter notebook，包括监督与无监督学习，分类准确性
 
 # Probabilistic Model 概率模型课件
 
