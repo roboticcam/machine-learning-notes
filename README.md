@@ -144,7 +144,7 @@ An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks t
 
 * **[[costFunction.m]](https://github.com/roboticcam/matlab_demos/blob/master/costFunction.m)** 
 * **[[soft_max.m]](https://github.com/roboticcam/matlab_demos/blob/master/soft_max.m)** 
-* [industry data science Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
+* **[industry data science Jupyter notebook](https://github.com/roboticcam/machine-learning-notes/blob/master/files/industry_master_class.ipynb) ###
 
 * ### [Recommendation system](https://github.com/roboticcam/machine-learning-notes/blob/master/files/recommendation.pdf) ###
 collaborative filtering, Factorization Machines, Non-Negative Matrix factorisation, Multiplicative Update Rule     推荐系统: 协同过滤，分解机，非负矩阵分解，和期中“乘法更新规则”的介绍
