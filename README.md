@@ -57,6 +57,15 @@ common concepts and techniques for classification model evaluation, including bo
 * ### [Class 2: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_decision_tree.pdf) ###
 In addition to all the basics of decision trees, I've added a $\chi^2$ test section to this note. 除了决策树的所有基础知识之外，我还在此说明中添加了 $\chi^2$ 测试部分。
 
+* ### [Class 3: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_simple_bayes.pdf) ###
+This note is intended to provide an intuitive explanation of the basic concepts of probability, Bayes' theorem, graphical models of probability. 本课件旨在对概率的基本概念、贝叶斯定理、概率的图形模型提供直观的解释
+
+* ### [Class 4: Regression](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_regression.pdf) ###
+This note is to explain the century-old, simplest regression models: linear and polynomial regression, and some techniques for evaluating regression performance, especially the coefficient of determination (CoD) method. 这篇笔记是为了解释最简单的回归模型：线性回归和多项式回归，以及一些评估回归性能的技术，尤其是确定系数 (CoD) 方法
+
+* ### [Class 5: Neural Network](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_neural_network.pdf) ###
+First I show three different last output layer models: logistic, multinomial, and linear regression. Then I show the concept of gradient descent. The main part is to show a basic fully connected neural network and finally a convolutional neural network. 首先，我展示了三个不同的最后输出层模型：逻辑回归、多项式和线性回归。然后我展示了梯度下降的概念。主要部分是展示一个基本的全连接神经网络，最后是一个卷积神经网络。
+
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
 
