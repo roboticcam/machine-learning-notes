@@ -45,9 +45,6 @@ First I show three different last output layer models: logistic, multinomial, an
 * ### [Class 6: Unsupervised Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_unsupervised.pdf) ###
 This note describes some common topics in unsupervised learning. From the most obvious methods like clustering, to topic modeling (Latent Diricher Allocation) and traditional word embeddings like the word2vec algorithm. 本课件描述了无监督学习中的一些常见主题。从最明显的方法（如聚类）到主题建模和传统的词嵌入（如 word2vec 算法）。
 
-* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
-basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
-
 
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
 
