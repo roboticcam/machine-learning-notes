@@ -30,10 +30,10 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 * ### [Class 1: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
 common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
 
-* ### [Class 2: Simple Bayes](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_decision_tree.pdf) ###
+* ### [Class 2: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_decision_tree.pdf) ###
 In addition to all the basics of decision trees, I've added a $\chi^2$ test section to this note. 除了决策树的所有基础知识之外，我还在此说明中添加了 $\chi^2$ 测试部分。
 
-* ### [Class 3: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_simple_bayes.pdf) ###
+* ### [Class 3: Simple Bayes](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_simple_bayes.pdf) ###
 This note is intended to provide an intuitive explanation of the basic concepts of probability, Bayes' theorem, graphical models of probability. 本课件旨在对概率的基本概念、贝叶斯定理、概率的图形模型提供直观的解释
 
 * ### [Class 4: Regression](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_regression.pdf) ###
