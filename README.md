@@ -54,8 +54,8 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 * ### [Class 1: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
 common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
 
-* ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
-detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD   卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
+* ### [Class 2: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_decision_tree.pdf) ###
+In addition to all the basics of decision trees, I've added a $\chi^2$ test section to this note.
 
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
