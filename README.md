@@ -107,8 +107,8 @@ This is a seminar talk I gave on some modern examples in which Bayesian (or prob
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
 detailed explanation of CNN, various Loss function, Centre Loss, contrastive Loss, Residual Networks, Capsule Networks, YOLO, SSD   卷积神经网络：从基础到最近的研究：包括卷积神经网络的详细解释，各种损失函数，中心损失函数，对比损失函数，残差网络，胶囊网络, YOLO，SSD
 
-* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
-basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
+* ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_cd.pdf) ###
+Restricted Boltzmann Machine (RBM) and Contrastive Divergence (CD) Basics  受限玻尔兹曼机 (RBM) 和对比发散 (CD) 基础知识
 
 
 # Reinforcement Learning 强化学习
