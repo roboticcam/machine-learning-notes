@@ -55,7 +55,7 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
 
 * ### [Class 2: Decision Tree](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_decision_tree.pdf) ###
-In addition to all the basics of decision trees, I've added a $\chi^2$ test section to this note.
+In addition to all the basics of decision trees, I've added a $\chi^2$ test section to this note. 除了决策树的所有基础知识之外，我还在此说明中添加了 $\chi^2$ 测试部分。
 
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_gan.pdf) ###
 basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
