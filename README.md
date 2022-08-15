@@ -18,18 +18,6 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 * ### [Class 6: Johnson–Lindenstrauss lemma](https://github.com/roboticcam/machine-learning-notes/blob/master/files/j_l_lemma.pdf) ###
 
 
-# Sinovation DeeCamp 创新工场DeeCAMP讲义
-
-* ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
-
-properties of Softmax, Estimating softmax without compute denominator, Probability re-parameterization: Gumbel-Max trick and REBAR algorithm
- (softmax的故事) Softmax的属性, 估计softmax时不需计算分母, 概率重新参数化, Gumbel-Max技巧和REBAR算法
-
-* ### [DeeCamp 2018：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/DeeCamp2018_Xu_final.pptx) ###
-
-Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
-(当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
-
 # Video Tutorial to these notes 视频资料
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [bilibili](https://space.bilibili.com/327617676) and [Youku](http://i.youku.com/i/UMzIzNDgxNTg5Ng)       
@@ -61,15 +49,18 @@ This note describes some common topics in unsupervised learning. From the most o
 basic knowledge in Restricted Boltzmann Machine (RBM)   受限玻尔兹曼机(RBM)中的基础知识
 
 
-# 3D Geometry Computer vision 3D几何计算机视觉 
+# Sinovation DeeCamp 创新工场DeeCAMP讲义
 
-* ### [3D Geometry Fundamentals](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_foundation.pdf) ###
-Camera Models, Intrinsic and Extrinsic parameter estimation, Epipolar Geometry, 3D reconstruction, Depth Estimation  相机模型，内部和外部参数估计，对极几何，三维重建，图像深度估计
+* ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
 
-* ### [Recent Deep 3D Geometry based Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_research.pdf) ###
-Recent research of the following topics: Single image to Camera Model estimation, Multi-Person 3D pose estimation from multi-view, GAN-based 3D pose estimation, Deep Structure-from-Motion, Deep Learning based Depth Estimation,  以下主题的最新研究：单图像到相机模型的估计，基于多视图的多人3D姿势估计，基于GAN的3D姿势估计，基于运动的深度结构，基于深度学习的深度估计
+properties of Softmax, Estimating softmax without compute denominator, Probability re-parameterization: Gumbel-Max trick and REBAR algorithm
+ (softmax的故事) Softmax的属性, 估计softmax时不需计算分母, 概率重新参数化, Gumbel-Max技巧和REBAR算法
 
-This section is co-authored with PhD student Yang Li 本部分与博士研究生李杨合写
+* ### [DeeCamp 2018：When Probabilities meet Neural Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/DeeCamp2018_Xu_final.pptx) ###
+
+Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
+(当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
+
 
 # Deep Learning Research Topics 深度学习研究
 
@@ -103,6 +94,16 @@ detailed explanation of CNN, various Loss function, Centre Loss, contrastive Los
 * ### [Restricted Boltzmann Machine](https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_cd.pdf) ###
 Restricted Boltzmann Machine (RBM) and Contrastive Divergence (CD) Basics  受限玻尔兹曼机 (RBM) 和对比发散 (CD) 基础知识
 
+
+# 3D Geometry Computer vision 3D几何计算机视觉 
+
+* ### [3D Geometry Fundamentals](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_foundation.pdf) ###
+Camera Models, Intrinsic and Extrinsic parameter estimation, Epipolar Geometry, 3D reconstruction, Depth Estimation  相机模型，内部和外部参数估计，对极几何，三维重建，图像深度估计
+
+* ### [Recent Deep 3D Geometry based Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cv_3d_research.pdf) ###
+Recent research of the following topics: Single image to Camera Model estimation, Multi-Person 3D pose estimation from multi-view, GAN-based 3D pose estimation, Deep Structure-from-Motion, Deep Learning based Depth Estimation,  以下主题的最新研究：单图像到相机模型的估计，基于多视图的多人3D姿势估计，基于GAN的3D姿势估计，基于运动的深度结构，基于深度学习的深度估计
+
+This section is co-authored with PhD student Yang Li 本部分与博士研究生李杨合写
 
 # Reinforcement Learning 强化学习
 
