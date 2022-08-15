@@ -51,7 +51,7 @@ Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process 
 
 # Course on Foundational Mathematics in Machine Learning 机器学习基础数学课程
 
-* ### [class 1: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
+* ### [Class 1: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
 common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
 
 * ### [Convolution Neural Networks: from basic to recent Research](https://github.com/roboticcam/machine-learning-notes/blob/master/files/cnn_beyond.pdf) ###
