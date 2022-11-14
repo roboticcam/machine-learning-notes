@@ -163,7 +163,7 @@ collaborative filtering, Factorization Machines, Non-Negative Matrix factorisati
 * ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters     一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
 
-* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/em.pdf) ###
+* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
 
  最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
