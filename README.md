@@ -46,6 +46,14 @@ First I show three different last output layer models: logistic, multinomial, an
 This note describes some common topics in unsupervised learning. From the most obvious methods like clustering, to topic modeling (Latent Diricher Allocation) and traditional word embeddings like the word2vec algorithm. 本课件描述了无监督学习中的一些常见主题。从最明显的方法（如聚类）到主题建模和传统的词嵌入（如 word2vec 算法）。
 
 
+# Course on Intermediate Mathematics in Machine Learning 机器学习中级数学课程
+
+* ### [Expecation Maximization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
+Expectation-Maximization Proof of Convergence and Its Application to Gaussian Mixture Models
+期望最大化收敛性的证明及其在高斯混合模型中的应用
+
+
+
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
 
 * ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
