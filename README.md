@@ -46,6 +46,15 @@ First I show three different last output layer models: logistic, multinomial, an
 This note describes some common topics in unsupervised learning. From the most obvious methods like clustering, to topic modeling (Latent Diricher Allocation) and traditional word embeddings like the word2vec algorithm. 本课件描述了无监督学习中的一些常见主题。从最明显的方法（如聚类）到主题建模和传统的词嵌入（如 word2vec 算法）。
 
 
+# Course on Intemediate Mathematics in Machine Learning 机器学习中级数学课程
+
+I'm currently updating/validating and correcting notes I've written over the past decade and incorporating them into an introduction/intermediate/advanced machine learning course. I will gradually delete all my Beamer notes and replace them with technical report notes. 我目前正在更新/验证和更正我在过去十年中写的笔记，并将它们合并到入门/中级/高级机器学习课程中。 我会逐渐删除我所有的 Beamer 笔记，并用技术报告笔记代替它们。
+
+* ### [Class: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
+common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
+
+
+
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
 
 * ### [DeeCamp 2019：Story of Softmax](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf) ###
