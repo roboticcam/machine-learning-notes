@@ -48,7 +48,7 @@ This note describes some common topics in unsupervised learning. From the most o
 
 # Course on Intemediate Mathematics in Machine Learning 机器学习中级数学课程
 
-I'm currently updating/validating and correcting notes I've written over the past decade and incorporating them into an introduction/intermediate/advanced machine learning course. I will gradually delete all my Beamer notes and replace them with technical report notes. 我目前正在更新/验证和更正我在过去十年中写的笔记，并将它们合并到入门/中级/高级机器学习课程中。 我会逐渐删除我所有的 Beamer 笔记，并用技术报告笔记代替它们。
+I'm currently updating/validating and correcting notes I've written over the past decade and incorporating them into an introduction/intermediate/advanced machine learning course. I will gradually delete all my previous Beamer notes and replace them with technical report notes. 我目前正在更新/验证和更正我在过去十年中写的笔记，并将它们合并到入门/中级/高级机器学习课程中。 我会逐渐删除之前写的 Beamer 笔记，并用技术报告笔记代替它们。
 
 * ### [Expectation Maximization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
