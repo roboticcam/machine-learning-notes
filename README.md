@@ -59,7 +59,7 @@ MCMC background, including random matrix, power method convergence, detailed bal
 
 
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_vb.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**     变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
+Explain Variational Bayes both the non-exponential and exponential family distribution **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**   解释变分贝叶斯非指数和指数族分布。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
 
 
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
