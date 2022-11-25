@@ -54,8 +54,8 @@ I'm currently updating/validating and correcting notes I've written over the pas
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
 最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
 
-* ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/stochastic_matrices.pdf) ###
-BMCMC background, including random matrix, power method convergence, detailed balance and PageRank algorithm, some basic MCMC methods, including Metropolitan-Hasting, Gibbs, and LDA as an example MCMC背景，包括随机矩阵、幂法收敛、详细平衡和PageRank算法，一些基本的MCMC方法，包括Metropolitan-Hasting、Gibbs和LDA为例
+* ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_mcmc.pdf) ###
+MCMC background, including random matrix, power method convergence, detailed balance and PageRank algorithm, some basic MCMC methods, including Metropolitan-Hasting, Gibbs, and LDA as an example MCMC背景，包括随机矩阵、幂法收敛、详细平衡和PageRank算法，一些基本的MCMC方法，包括Metropolitan-Hasting、Gibbs和LDA为例
 
 
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
