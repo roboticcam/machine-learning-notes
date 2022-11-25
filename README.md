@@ -50,8 +50,10 @@ This note describes some common topics in unsupervised learning. From the most o
 
 I'm currently updating/validating and correcting notes I've written over the past decade and incorporating them into an introduction/intermediate/advanced machine learning course. I will gradually delete all my Beamer notes and replace them with technical report notes. 我目前正在更新/验证和更正我在过去十年中写的笔记，并将它们合并到入门/中级/高级机器学习课程中。 我会逐渐删除我所有的 Beamer 笔记，并用技术报告笔记代替它们。
 
-* ### [Class: Model Evaluation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/foundation_model_evaluation.pdf) ###
-common concepts and techniques for classification model evaluation, including bootstrapping sampling, confusion matrices, receiver operating characteristic (ROC) curves. 分类模型评估的常见概念和技术，包括自举抽样、混淆矩阵、接收器操作特征 (ROC) 曲线
+* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
+
+最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
 
 
 
@@ -164,10 +166,7 @@ collaborative filtering, Factorization Machines, Non-Negative Matrix factorisati
 * ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters     一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
 
-* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
-Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
 
- 最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
 
 * ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dynamic_model.pdf) ###
 explain in detail of Kalman Filter  **[[bilibili video]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[bilibili video]](https://www.bilibili.com/video/av24132174)** 
