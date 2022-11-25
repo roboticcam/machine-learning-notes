@@ -50,12 +50,16 @@ This note describes some common topics in unsupervised learning. From the most o
 
 I'm currently updating/validating and correcting notes I've written over the past decade and incorporating them into an introduction/intermediate/advanced machine learning course. I will gradually delete all my Beamer notes and replace them with technical report notes. 我目前正在更新/验证和更正我在过去十年中写的笔记，并将它们合并到入门/中级/高级机器学习课程中。 我会逐渐删除我所有的 Beamer 笔记，并用技术报告笔记代替它们。
 
-* ### [Expectation Maximisation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
+* ### [Expectation Maximization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_em.pdf) ###
 Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** and **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** and **[[bilibili video]](https://www.bilibili.com/video/av23901379)**
 最大期望E-M的收敛证明, E-M到高斯混合模型的例子, **[[gmm_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/gmm_demo.m)** 和 **[[kmeans_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kmeans_demo.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av23901379)**
 
 * ### [Markov Chain Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_mcmc.pdf) ###
 MCMC background, including random matrix, power method convergence, detailed balance and PageRank algorithm, some basic MCMC methods, including Metropolitan-Hasting, Gibbs, and LDA as an example MCMC背景，包括随机矩阵、幂法收敛、详细平衡和PageRank算法，一些基本的MCMC方法，包括Metropolitan-Hasting、Gibbs和LDA为例
+
+
+* ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_vb.pdf) ###
+explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**     变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
 
 
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
@@ -175,9 +179,6 @@ explain in detail of Kalman Filter  **[[bilibili video]](https://www.bilibili.co
 和隐马尔可夫模型 **[[B站视频链接]](https://www.bilibili.com/video/av24132174)** 
 
 # Inference 推断课件
-
-* ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variational.pdf) ###
-explain Variational Bayes both the non-exponential and exponential family distribution plus stochastic variational inference. **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**     变分推导的介绍: 解释变分贝叶斯非指数和指数族分布加上随机变分推断。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
 
 * ### [Introduction to Monte Carlo](https://github.com/roboticcam/machine-learning-notes/blob/master/files/introduction_monte_carlo.pdf) ###
 inverse CDF, rejection, adaptive rejection, importance sampling **[[adaptive_rejection_sampling.m]](https://github.com/roboticcam/matlab_demos/blob/master/adaptive_rejection_sampling.m)** and **[[hybrid_gmm.m]](https://github.com/roboticcam/matlab_demos/blob/master/hybrid_gmm.m)**
