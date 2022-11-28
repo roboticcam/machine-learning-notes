@@ -61,6 +61,13 @@ MCMC background, including random matrix, power method convergence, detailed bal
 * ### [Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_vb.pdf) ###
 Explain Variational Bayes both the non-exponential and exponential family distribution **[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** and **[[bilibili video]](https://www.bilibili.com/video/av24062247)**   解释变分贝叶斯非指数和指数族分布。**[[vb_normal_gamma.m]](https://github.com/roboticcam/matlab_demos/blob/master/vb_normal_gamma.m)** 和 **[[B站视频链接]](https://www.bilibili.com/video/av24062247)** 
 
+* ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/intermediate_ssm.pdf) ###
+explain in detail of Kalman Filter  **[[bilibili video]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[bilibili video]](https://www.bilibili.com/video/av24132174)** 
+
+状态空间模型(动态模型) 详细解释了卡尔曼滤波器
+**[[B站视频链接]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
+和隐马尔可夫模型 **[[B站视频链接]](https://www.bilibili.com/video/av24132174)** 
+
 
 # Sinovation DeeCamp 创新工场DeeCAMP讲义
 
@@ -170,13 +177,6 @@ collaborative filtering, Factorization Machines, Non-Negative Matrix factorisati
 
 * ### [Probabilistic Estimation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/probability.pdf) ###
 some useful distributions, conjugacy, MLE, MAP, Exponential family and natural parameters     一些常用的分布，共轭特性，最大似然估计, 最大后验估计, 指数族和自然参数
-
-* ### [State Space Model (Dynamic model)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/dynamic_model.pdf) ###
-explain in detail of Kalman Filter  **[[bilibili video]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)** and Hidden Markov Model **[[bilibili video]](https://www.bilibili.com/video/av24132174)** 
-
-状态空间模型(动态模型) 详细解释了卡尔曼滤波器
-**[[B站视频链接]](https://www.bilibili.com/video/av24225243)**, **[[kalman_demo.m]](https://github.com/roboticcam/matlab_demos/blob/master/kalman_demo.m)**
-和隐马尔可夫模型 **[[B站视频链接]](https://www.bilibili.com/video/av24132174)** 
 
 # Monte-Carlo Inference 蒙特卡洛推理
 
