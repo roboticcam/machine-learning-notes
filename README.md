@@ -162,7 +162,7 @@ RNN, LSTM, Seq2Seq with Attenion, Beam search, Attention is all you need, Convol
 
 # Data Science PowerPoint and Source Code 数据科学 PowerPoint 和源代码
 
-* ### [introduction to Deep Learning and ChatGPT](https://github.com/roboticcam/machine-learning-notes/blob/master/files/30_min_AI.pptx)
+* ### [introduction to Deep Learning and ChatGPT](https://github.com/roboticcam/machine-learning-notes/blob/master/files/deep_learning_chatgpt.pdf)
 an introduction to deep learning and ChatGPT [video link](https://www.bilibili.com/video/BV14M4y1R7h4/)
 
 
